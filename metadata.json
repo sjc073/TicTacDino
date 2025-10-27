@@ -1,0 +1,5 @@
+{
+  "name": "Tic-Tac-Dino",
+  "description": "A visually appealing 3D-styled Tic Tac Toe game where players choose between T-Rexs and Pterodactyls. The game features a dynamic 3D board, smooth animations, and a clean, prehistoric-themed interface.",
+  "requestFramePermissions": []
+}
